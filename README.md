@@ -45,7 +45,10 @@ Committed to continuous learning, I am always striving to broaden my skill set a
 
 
 ## 📫 How to reach me
-- [LinkedIn](linkedin.com/in/jaybhanushali)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaybhanushali)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaybhanu12)
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.yourportfolio.com)
+
 
 Feel free to connect with me! I'm always open to new opportunities and collaborations.
 
