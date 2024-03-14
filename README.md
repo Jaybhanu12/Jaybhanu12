@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Jay Bhanushali
 
+###About me
+
 Welcome to my GitHub profile! I'm a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about crafting seamless, end-to-end solutions. My dynamic skill set forms the cornerstone of every project, enabling me to thrive under pressure and embrace challenges with a proactive mindset.
 
 ## Tech Stack
