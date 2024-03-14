@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Jay Bhanushali
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JayBhanushali-blue)][LinkedIn](linkedin.com/in/jaybhanushali)
-https://img.shields.io/badge/LinkedIn-YourName-blue](https://www.linkedin.com/in/your-linkedin-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JayBhanushali-blue)](linkedin.com/in/jaybhanushali)
 
 Welcome to my GitHub profile! I'm a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about crafting seamless, end-to-end solutions. My dynamic skill set forms the cornerstone of every project, enabling me to thrive under pressure and embrace challenges with a proactive mindset.
 
