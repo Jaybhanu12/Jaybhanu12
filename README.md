@@ -1,85 +1,57 @@
 ### Hi there 👋, I'm Jay Bhanushali
 
-- **Phone:** 9821267630
-- **Email:** bhanujay890@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourName-brightgreen)](https://your-portfolio-url.com/)
+[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
 
-## Profiles
+Welcome to my GitHub profile! I'm a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about crafting seamless, end-to-end solutions. My dynamic skill set forms the cornerstone of every project, enabling me to thrive under pressure and embrace challenges with a proactive mindset.
+
+## Tech Stack
+
+Here are some technologies I frequently work with:
+
+- **Frontend:** 
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+
+- **Backend:** 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+  ![Fastify.js](https://img.shields.io/badge/-Fastify.js-000000?logo=fastify&logoColor=white)
+
+- ### Database
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+
+- ### Version Control
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+- ### Other Tools & Technologies
+  ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  
+- **Cloud Technologies:** 
+  ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google_Cloud_Platform_(GCP)-4285F4?logo=google-cloud&logoColor=white)
+
+
+
+
+## ☁️ Google Cloud Explorer
+Actively exploring the potential of Google Cloud Platform (GCP), I am on a journey to integrate cloud solutions for enhanced scalability and performance. Eager to leverage the power of MERN and GCP in creating cutting-edge applications.
+
+## 🚀 Aspirations
+Committed to continuous learning, I am always striving to broaden my skill set and contribute to innovative projects. Open to collaborative opportunities, I am keen on exploring new horizons in the tech landscape.
+
+
+## 📫 How to reach me
 - [LinkedIn](linkedin.com/in/jaybhanushali)
 
-## Skills
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- Fastify.js
-- REST API
-- Docker
-- Google Cloud Platform (GCP)
-- HTML
-- CSS
-- JavaScript
-- Python
-- Problem Solving
-- Team Leadership
+Feel free to connect with me! I'm always open to new opportunities and collaborations.
 
-## Interests
-- Playing Sports
-- Playing E-Sports
-
-## Languages
-- English: Professional Working Proficiency
-- Hindi: Professional Working Proficiency
-- Gujarati: Professional Working Proficiency
-- Marathi: Professional Working Proficiency
-
-## Experience
-
-### Innovative Data Solutions Private Limited
-**Web Developer** (08/2023 - 10/2023)
-
-As a focused Web Developer, I actively shaped the design, development, and maintenance of dynamic, responsive websites. Utilizing expertise in HTML, CSS, and JavaScript, I effectively crafted visually appealing and user-friendly interfaces.
-
-### Learning Vitals Private Limited
-**Web Developer** (11/2023 - Present)
-
-As a dedicated MERN stack developer, I played a pivotal role in creating robust and dynamic web applications that enhanced user experiences and met business objectives. Spearheaded end-to-end development of web applications, seamlessly integrating MongoDB as the database, Express.js for server-side logic, and creating REST APIs to perform CRUD operations. This involved using React for front-end views and Node.js for server-side scripting.
-
-## Education
-
-### S.V.K.M Usha Pravin Gandhi College of Arts, Science & Commerce
-**Bsc-IT** (07/2022 - Present)
-
-### S.k Somaiya Vinay Mandir junior College
-**HSC - Commerce** (08/2020 - 07/2022)
-- Percentage: 70.60%
-
-### Sungrace English High School
-**SSC** (06/2014 - 07/2020)
-- Percentage: 76.80%
-
-## Projects
-
-### Real Estate Website
-Complete Responsive Real Estate Website for a freelance client, using HTML, CSS, JavaScript.
-
-### User Management Module
-Developed a comprehensive User Management Module using the MERN stack, seamlessly integrating frontend and backend technologies. This multifaceted project encompasses user registration, login, logout, profile updates, and password management functionalities. The implementation demonstrates a harmonious fusion of MongoDB, Express.js, React, and Node.js, ensuring a smooth and secure user experience across the entire platform.
-
-## Certifications
-
-- Google Ads Course 2022 - Campaign Creations ([Certificate](https://www.learn
-
-<!--
-**Jaybhanu12/Jaybhanu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact
+I love problem-solving and enjoy taking on leadership roles within teams.
