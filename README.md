@@ -8,14 +8,14 @@ Welcome to my GitHub profile! I'm a MERN (MongoDB, Express.js, React.js, Node.js
 
 Here are some technologies I frequently work with:
 
-- **Frontend:** 
+- ### Frontend:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
-- **Backend:** 
+- ### Backend:
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
   ![Fastify.js](https://img.shields.io/badge/-Fastify.js-000000?logo=fastify&logoColor=white)
@@ -33,7 +33,7 @@ Here are some technologies I frequently work with:
   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   
-- **Cloud Technologies:** 
+- ### Cloud Technologies:
   ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google_Cloud_Platform_(GCP)-4285F4?logo=google-cloud&logoColor=white)
 
 
