@@ -34,7 +34,7 @@ Here are some technologies I frequently work with:
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   
 - ### Cloud Technologies:
-  [![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google_Cloud_Platform_(GCP)-4285F4?logo=google-cloud&logoColor=white)]
+  [![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google_Cloud_Platform_(GCP)-4285F4?logo=google-cloud&logoColor=white)]()
 
 
 
